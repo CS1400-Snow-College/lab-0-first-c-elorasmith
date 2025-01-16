@@ -1,0 +1,15 @@
+C:\Users\14358\OneDrive\Desktop\code\my-code-dir\lab-0-first-c-elorasmith\bin\Debug\net8.0\lab-0-first-c-elorasmith.exe
+C:\Users\14358\OneDrive\Desktop\code\my-code-dir\lab-0-first-c-elorasmith\bin\Debug\net8.0\lab-0-first-c-elorasmith.deps.json
+C:\Users\14358\OneDrive\Desktop\code\my-code-dir\lab-0-first-c-elorasmith\bin\Debug\net8.0\lab-0-first-c-elorasmith.runtimeconfig.json
+C:\Users\14358\OneDrive\Desktop\code\my-code-dir\lab-0-first-c-elorasmith\bin\Debug\net8.0\lab-0-first-c-elorasmith.dll
+C:\Users\14358\OneDrive\Desktop\code\my-code-dir\lab-0-first-c-elorasmith\bin\Debug\net8.0\lab-0-first-c-elorasmith.pdb
+C:\Users\14358\OneDrive\Desktop\code\my-code-dir\lab-0-first-c-elorasmith\obj\Debug\net8.0\lab-0-first-c-elorasmith.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\14358\OneDrive\Desktop\code\my-code-dir\lab-0-first-c-elorasmith\obj\Debug\net8.0\lab-0-first-c-elorasmith.AssemblyInfoInputs.cache
+C:\Users\14358\OneDrive\Desktop\code\my-code-dir\lab-0-first-c-elorasmith\obj\Debug\net8.0\lab-0-first-c-elorasmith.AssemblyInfo.cs
+C:\Users\14358\OneDrive\Desktop\code\my-code-dir\lab-0-first-c-elorasmith\obj\Debug\net8.0\lab-0-first-c-elorasmith.csproj.CoreCompileInputs.cache
+C:\Users\14358\OneDrive\Desktop\code\my-code-dir\lab-0-first-c-elorasmith\obj\Debug\net8.0\lab-0-first-c-elorasmith.sourcelink.json
+C:\Users\14358\OneDrive\Desktop\code\my-code-dir\lab-0-first-c-elorasmith\obj\Debug\net8.0\lab-0-first-c-elorasmith.dll
+C:\Users\14358\OneDrive\Desktop\code\my-code-dir\lab-0-first-c-elorasmith\obj\Debug\net8.0\refint\lab-0-first-c-elorasmith.dll
+C:\Users\14358\OneDrive\Desktop\code\my-code-dir\lab-0-first-c-elorasmith\obj\Debug\net8.0\lab-0-first-c-elorasmith.pdb
+C:\Users\14358\OneDrive\Desktop\code\my-code-dir\lab-0-first-c-elorasmith\obj\Debug\net8.0\lab-0-first-c-elorasmith.genruntimeconfig.cache
+C:\Users\14358\OneDrive\Desktop\code\my-code-dir\lab-0-first-c-elorasmith\obj\Debug\net8.0\ref\lab-0-first-c-elorasmith.dll
